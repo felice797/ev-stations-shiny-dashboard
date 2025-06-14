@@ -1,6 +1,6 @@
 # EV Charging Stations Visualization 
 
-Interactive geospatial analysis of U.S. electric vehicle charging infrastructure using R, Leaflet, Shiny, and dplyr. The visualizations features both a comprehensive multi-state dashboard and a focused Connecticut case study with data cleaning, reactive programming, and web deployment.
+Interactive geospatial analysis of U.S. electric vehicle charging infrastructure using R, Leaflet, Shiny, and dplyr. The visualizations feature a comprehensive multi-state dashboard and a focused Connecticut case study with data cleaning, reactive programming, and web deployment.
 
 ## Contents 
 1. [Overview](#overview)
